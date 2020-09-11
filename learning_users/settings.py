@@ -79,9 +79,10 @@ WSGI_APPLICATION = 'learning_users.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'userdb',
-        'USER': 'root',
-        'PASSWORD': 'root'
+        'NAME': 'Chirag$',
+        'USERNAME': 'Chirag',
+        'PASSWORD': 'elegant123',
+        'Database host address': 'Chirag.mysql.pythonanywhere-services.com'
     }
 }
 
